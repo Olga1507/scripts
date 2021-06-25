@@ -7,7 +7,7 @@ n = 0
 length = 0
 
 while True:
-    # перевод n в 16-ричную систему
+    # перевод n в 16-ричную систему Test!
     password = ''
     temp = n
     while len(password) < length:
@@ -31,4 +31,3 @@ while True:
         n = 0
     else:
         n += 1
-
